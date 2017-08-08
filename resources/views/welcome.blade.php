@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="With years of experience in the music industry, we know what’s important to artists and entertainment brands.">
     <meta name="author" content="Future Fanbase">
-    <!-- <link rel="icon" href="../../favicon.ico"> -->
+    <link rel="icon" href="favicon.png">
 
     <title>Future Fanbase - We take online marketing to the next level</title>
 
@@ -114,6 +114,6 @@
       ga('send', 'pageview');
 
     </script>
-    
+
   </body>
 </html>

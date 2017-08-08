@@ -63,12 +63,12 @@
       </div>
 
       <div class="row founded">
-        <div class="col-md-3 col-md-offset-2">
+        <div class="col-md-3 col-md-offset-2 col-xs-6">
           <img class="img-responsive" src="img/bo-avatar.jpg">
           <h4><a target="_blank" href="https://www.linkedin.com/in/bonecaverhagen/">Boneca Verhagen</a><span class="pink">.</span></h4>
           <small>Co-Founder</small>
         </div>
-        <div class="col-md-3">
+        <div class="col-md-3 col-xs-6">
           <img class="img-responsive" src="img/lars-avatar.jpg">
           <h4><a class="lars" target="_blank" href="https://www.linkedin.com/in/larsswemmer/">Lars Swemmer</a><span class="blue">.</span></h4>
           <small>Co-Founder</small>

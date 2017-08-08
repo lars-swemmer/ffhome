@@ -101,3 +101,21 @@ p.contact {
 	text-decoration: none;
 	font-weight: 400;
 }
+
+/* mobile */
+@media (max-width: 768px) {
+	.container {
+		margin-top: 20px;
+		margin-bottom: 40px;
+	}
+
+	.founded {
+		margin-top: 20px;
+	}
+
+	.cover-heading span, p.lead span {
+		padding: 5px 0;
+	}
+}
+
+

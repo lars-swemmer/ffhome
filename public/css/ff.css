@@ -1,0 +1,103 @@
+html, body {
+	font-family: 'Lato', sans-serif;
+	-webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-shadow: none;
+    color: #34312a;
+    background-color: #fff;
+}
+
+.cover-heading span, p.lead span {
+	color: #16e9e2;
+	background-color: #34312a;
+	padding: 5px;
+}
+
+u {
+	color: #000;
+}
+
+p.lead {
+	font-size: 24px;
+}
+
+a {
+	font-size: 20px;
+	color: #000;
+	text-decoration: underline;
+	font-weight: 600;
+}
+
+a:hover, a:active, a:focus {
+	color: #ff00ff;
+}
+
+h1.cover-heading {
+	font-weight: 900;
+	letter-spacing: 1px;
+	margin-bottom: 20px;
+	font-size: 48px;
+}
+
+h2 {
+	font-size: 40px;
+	font-weight: 900;
+}
+
+h4 {
+	font-size: 20px;
+	font-weight: 600;
+	color: #000;
+	text-decoration: underline;
+}
+
+p {
+	font-size: 20px;
+	color: #686b77;
+}
+
+small {
+	font-size: 16px;
+	color: #686b77;
+}
+
+span.yellow, p.lead span.yellow {
+	color: #ffff00;
+}
+
+span.pink {
+	color: #ff00ff;
+}
+
+span.artist {
+	color: #000;
+	font-weight: 600;
+}
+
+.blue, a:hover.lars, a:active.lars, a:focus.lars {
+	color: #16e9e2;
+}
+
+.container {
+	margin-top: 200px;
+	margin-bottom: 200px;
+}
+
+.founded {
+	margin-top: 100px;
+}
+
+.footer p {
+	margin-top: 15px;
+	font-size: 20px;
+	color: #000;
+	font-weight: 600;
+}
+
+p.contact {
+	margin-top: 0;
+	font-size: 16px;
+	color: #686b77;
+	text-decoration: none;
+	font-weight: 400;
+}

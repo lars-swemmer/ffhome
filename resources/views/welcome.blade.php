@@ -43,7 +43,10 @@
           <h2>We take online marketing to the next level<span class="pink">.</span></h2>
         </div>
         <div class="col-md-8 col-md-offset-2">
-          <p>And love to work for: <span class="artist">R3HAB</span>, <span class="artist">Oliver Heldens</span> &amp; <span class="artist">Purple Haze</span>.</p>
+          <p>
+              And love to work for: <span class="artist">R3HAB</span>, <span class="artist">Sander van Doorn</span> &amp; <span class="artist">Ella Vos.</span>
+              And proud to be part of projects like: <span class="artist">Avicii True Stories Documentary</span>, <span class="artist">Oliver Heldens Marketing Promotions</span> &amp; <span class="artist">STMPD RCRDS Releases</span>.
+          </p>
           <br />
           <p>We innovate every day looking for the best way to master your online marketing strategy.<br /><br />Interested in our vision on the digital landscape? Feel free to reach out and discover all the possibilities.  Together we can create something unique.
           </p>

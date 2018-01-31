@@ -45,7 +45,7 @@
         <div class="col-md-8 col-md-offset-2">
           <p>
               And love to work for: <span class="artist">R3HAB</span>, <span class="artist">Sander van Doorn</span> &amp; <span class="artist">Ella Vos.</span>
-              And proud to be part of projects like: <span class="artist">Avicii True Stories Documentary</span>, <span class="artist">Oliver Heldens Marketing Promotions</span> &amp; <span class="artist">STMPD RCRDS Releases</span>.
+              Also, we're proud of these projects: <span class="artist">Avicii True Stories Documentary</span>, <span class="artist">Oliver Heldens Promotions</span> &amp; <span class="artist">STMPD RCRDS Releases</span>.
           </p>
           <br />
           <p>We innovate every day looking for the best way to master your online marketing strategy.<br /><br />Interested in our vision on the digital landscape? Feel free to reach out and discover all the possibilities.  Together we can create something unique.
@@ -88,7 +88,7 @@
           <img class="img-responsive" src="img/contact.jpg">
         </div>
         <div class="col-md-8">
-          <p>Copyright © 2017 Future Fanbase<span class="pink">.</span></p>
+          <p>Copyright © 2018 Future Fanbase<span class="pink">.</span></p>
           <p class="contact">
             Landstraat, 154 | 1401 ET | Bussum, the Netherlands
             <br />

@@ -94,8 +94,6 @@
             <br />
             <br />
             hello@futurefanbase.com
-            <br />
-            Boneca Verhagen: +31 6 1444 2666
           </p>  
         </div> 
       </div>

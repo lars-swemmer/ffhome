@@ -44,11 +44,10 @@
         </div>
         <div class="col-md-8 col-md-offset-2">
           <p>
-              And love to work for: <span class="artist">R3HAB</span>, <span class="artist">Sander van Doorn</span> &amp; <span class="artist">Ella Vos.</span>
-              Also, we're proud of these projects: <span class="artist">Avicii True Stories Documentary</span>, <span class="artist">Oliver Heldens Promotions</span> &amp; <span class="artist">STMPD RCRDS Releases</span>.
+              And we’re proud to collaborate with top artists and be part of exciting projects. To name a few: <span class="artist">Avicii True Stories Documentary</span>, <span class="artist">Calvin Harris</span>, <span class="artist">Ella Vos</span>, <span class="artist">Martin Garrix</span>, <span class="artist">Oliver Heldens</span>, <span class="artist">R3HAB</span>, <span class="artist">Sander van Doorn</span> and <span class="artist">STMPD RCRDS</span>.
           </p>
           <br />
-          <p>We innovate every day looking for the best way to master your online marketing strategy.<br /><br />Interested in our vision on the digital landscape? Feel free to reach out and discover all the possibilities.  Together we can create something unique.
+          <p>Interested in our vision on the digital landscape? Feel free to reach out and discover all the possibilities.  Together we can create something unique.
           </p>
           <br />
           <a href="mailto:hello@futurefanbase.com">Get in touch!</a>
